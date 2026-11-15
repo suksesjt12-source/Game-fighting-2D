@@ -1,0 +1,6 @@
+{
+  "name": "Eclipse Arena",
+  "description": "Fast-paced 2D anime fighting game featuring six original fighters, special skills, four atmospheric battle arenas, Arcade, Versus, and Training modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
